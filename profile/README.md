@@ -12,4 +12,4 @@ Interested in contributing or have feedback? We welcome your ideas and contribut
 
 For more information, contact [Jérémie Lumbroso, Ph.D.](https://directory.seas.upenn.edu/jeremie-o-lumbroso/) at University of Pennsylvania, or raise an issue in our [GitHub repository](https://github.com/integrimark/.github/issues).
 
-![Screenshot of a sample document watermarked using IntegriMark](/screenshot.png?raw=true "Screenshot of a sample document watermarked using IntegriMark")
+![Screenshot of a sample document watermarked using IntegriMark](/profile/screenshot.png?raw=true "Screenshot of a sample document watermarked using IntegriMark")
